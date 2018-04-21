@@ -11,5 +11,5 @@ tags:
 ---
 
 
-Welcome to zeroisone. This is your first post. just testing.
+Welcome, this is my first post, just testing.
 
