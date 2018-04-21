@@ -1,6 +1,6 @@
 # Site settings
-title: zeroisone Blog
-SEOTitle: zeroisone | oneiszero Blog
+title: zeroisone blog
+SEOTitle: zeroisone | oneiszero blog
 header-img: img/post-bg-desk.jpg
 email: zeroisone@126.com
 description: "Web Security、Android Security、IOT Security"
@@ -100,10 +100,10 @@ friends: [
         title: "zeroisone",
         href: "http://zeroisone.cc"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "Trex-tbag",
+        href: "https://Trex-tbag.github.io"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "github",
+        href: "https://github.com/oneiszero/"
     }
 ]
