@@ -2,15 +2,16 @@
 title: zeroisone blog
 SEOTitle: zeroisone | oneiszero blog
 header-img: img/post-bg-desk.jpg
-email: zeroisone@126.com
+email: zeroisone#126.com
 description: "Web Security、Android Security、IOT Security"
-keyword: "zeroisone, Web, Android, IOT"
-url: "http://oneiszero.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+keyword: "zeroisone, Web, Android, IOT, Security"
+url: "https://oneiszero.github.io"          # your host, for absolute URL
+baseurl: "https://zeroisone.cc"      # for example, '/blog' if your blog hosted on 'host/blog'
+github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Stay hungry. Stay foolish."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,9 +20,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 RSS: false
 
 github_username:    oneiszero
-#facebook_username:  baiying.qiu.7
-#jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+id_username:        zeroisone
 
 
 
