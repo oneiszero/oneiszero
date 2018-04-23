@@ -96,13 +96,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "zeroisone",
-        href: "http://zeroisone.cc"
-    },{
         title: "Trex-tbag",
         href: "https://Trex-tbag.github.io"
     },{
-        title: "github",
-        href: "https://github.com/oneiszero/"
+        title: "Matthew",
+        href: "https://blog.csdn.net/ZZZJX7"
+    },{
+        title: "cnnetarmy",
+        href: "http://www.cnnetarmy.com/"
     }
 ]
