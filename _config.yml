@@ -7,7 +7,7 @@ description: "Web Security、Android Security、IOT Security"
 keyword: "zeroisone, Web, Android, IOT, Security"
 url: "https://oneiszero.github.io"          # your host, for absolute URL
 baseurl: "https://zeroisone.cc"      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git"
+github_repo: "https://github.com/oneiszero"
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
