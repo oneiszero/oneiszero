@@ -5,8 +5,8 @@ header-img: img/post-bg-desk.jpg
 email: zeroisone#126.com
 description: "Web Security、Android Security、IOT Security"
 keyword: "zeroisone, Web, Android, IOT, Security"
-url: "https://oneiszero.github.io"          # your host, for absolute URL
-baseurl: "https://zeroisone.cc"      # for example, '/blog' if your blog hosted on 'host/blog'
+url: "http://oneiszero.github.io"          # your host, for absolute URL
+baseurl: "http://zeroisone.cc"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/oneiszero"
 
 # Sidebar settings
