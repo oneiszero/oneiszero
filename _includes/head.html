@@ -51,5 +51,9 @@
     <![endif]-->
 
     <!-- ga & ba script hoook -->
-    <script></script>
+    <script type="text/javascript">
+        var host = "yourname.github.io";
+        if ((host == window.location.host) && (window.location.protocol != "https:"))
+            window.location.protocol = "https";
+    </script>
 </head>
