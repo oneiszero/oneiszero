@@ -1,3 +1,18 @@
+---
+layout:     post
+title:      绕过CDN查找网站真实IP的一些方法
+subtitle:   cdn
+date:       2018-01-07
+author:     zeroisone
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+    - Web安全
+    - tools
+---
+
+
+
 #绕过CDN查找网站真实IP的一些方法
 
 ## 0x00 前言
